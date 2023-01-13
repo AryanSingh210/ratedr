@@ -1,0 +1,4 @@
+name:aryran,email:jakiya6553@cnxcoin.com,number:12
+name:Aryan,email:aryansingh210abc@gmail.com,number:1
+name:Aryan Singh,email:aryansingh210abc@gmail.com,number:1
+name:Aryan Singh,email:kakashisensai39@gmail.com,number:2
